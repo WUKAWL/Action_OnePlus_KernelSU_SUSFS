@@ -57,6 +57,7 @@ on:
           - oneplus_13t_b
           - oneplus_15
           - oneplus_15r
+          - oneplus_15t
           - oneplus_ace2_b
           - oneplus_ace2_pro_b
           - oneplus_ace2_pro_v
@@ -94,6 +95,8 @@ on:
           - oneplus_pad_pro
           - oneplus_pad_pro_b
           - oneplus_pad_pro_v
+          - oneplus_turbo_6
+          - oneplus_turbo_6v
         # FEIL_OPTIONS_END
 
       CPUD:
